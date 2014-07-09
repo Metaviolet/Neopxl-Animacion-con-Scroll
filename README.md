@@ -4,6 +4,11 @@ Neopxl-Animacion-con-Scroll
 Este repositorio aloja el Demo del efecto animación de elementos al hacer scroll con HTML, CSS y JQuery
 se muestran tres tipos de animaciones:
 
+Fade In o Aparición progresiva 
+Slide o Deslizamiento horizontal
+Overlapping o Superposición de elementos a diferentes velocidades
+
+El demo puede verse en el siguiente vínculo : http://metaviolet.github.io/Neopxl-Animacion-con-Scroll
 
 
 Se hace uso de la Propiedad Transform de CSS:
