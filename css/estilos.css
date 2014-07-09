@@ -281,6 +281,8 @@ margin-left: -280px;
     padding: 5px;
     width: 100%;
     color: #A9EEE8;
+    position: fixed;
+    z-index: 1;
 }
 
 
