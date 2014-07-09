@@ -70,7 +70,7 @@ section p {
 .copy-container {
    position: absolute;
    top: 30px;
-   left: 12%;
+   left: 7%;
    margin-left: 8px;
    width: 100%;
    z-index: 10;
@@ -120,6 +120,7 @@ section p {
 	#fadeInAnim img {
 position: absolute;
 width: 100%;
+top: 35px;
 	}
 	.fadeIn {
 		
